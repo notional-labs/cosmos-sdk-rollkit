@@ -278,7 +278,7 @@ replace (
 	// TODO Remove it: https://github.com/cosmos/cosmos-sdk/issues/10409
 	github.com/gin-gonic/gin => github.com/gin-gonic/gin v1.9.1
 
-	github.com/rollkit/rollkit => github.com/notional-labs/rollkit v0.11.7-notional
+	github.com/rollkit/rollkit => github.com/notional-labs/rollkit v1.0.0
 	// replace broken goleveldb
 	github.com/syndtr/goleveldb => github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 )
